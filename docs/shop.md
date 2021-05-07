@@ -1,3 +1,8 @@
+---
+layout: default
+title: shop
+---
+
 <div id="myShop">
     <a href="https://shop.spreadshirt.de/open-x-day">open-x-day</a>
 </div>
