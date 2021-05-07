@@ -1,6 +1,6 @@
 ---
 layout: default
-title: shop
+title: Shop
 ---
 
 <div id="myShop">
@@ -11,7 +11,7 @@ title: shop
     var spread_shop_config = {
         shopName: 'open-x-day',
         locale: 'de_DE',
-        prefix: 'https://shop.spreadshirt.de',
+        prefix: 'https://shop.spreadshirt.ch',
         baseId: 'myShop'
     };
 </script>
