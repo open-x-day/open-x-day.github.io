@@ -1,1 +1,4 @@
-# Open X Day
+---
+layout: default
+title: Open X Day
+---
