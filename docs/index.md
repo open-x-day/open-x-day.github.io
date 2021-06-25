@@ -15,7 +15,7 @@ To pause and give space to things that otherwise "fall by the wayside".
 
 ## How does is work?
 
-We start at 8:30 a.m. either in a big room (restaurant) or online. The official end of the Open X Day is the aperitif at 15:15h.
+We start at 8:30 a.m. either in a big room (restaurant) or online. The official end of the Open X Day is the aperitif at 16:15h.
 
 The theme cards will be put down on _paper_ by the participants on site or online: a crisp title / picture (as a reminder) and at the beginning (8:30 - 9:00) a short introduction (1, 2 sentences). The initiator determines time, duration, place and motivates fellow participants. The topics are managed on a board and each participant can choose the topics that interest him or her.
 
